@@ -15,10 +15,10 @@ void generate_key(){
 				//else
 				value.push_back(val);
 				//or
-				
+
 				//myfile << val;
-				}
-				string_length.push_back(value);
+			}
+			string_length.push_back(value);
 		}
 		character.push_back(string_length);
 		//character.push_back(string_length.pushback(value));
